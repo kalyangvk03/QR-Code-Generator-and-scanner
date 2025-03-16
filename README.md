@@ -40,7 +40,7 @@ Generate QR Code
 ![Screenshot 2025-03-16 122737](https://github.com/user-attachments/assets/513ebb2b-2b7c-4cda-8d5c-30dc95fcaad7)
 
 Scan Generated Code in WebCam
-![Uploading Screenshot 2025-03-16 123308.png…]()
+![Screenshot 2025-03-16 123308](https://github.com/user-attachments/assets/b3481693-f33c-42a6-b4ea-d84bbce25381)
 
 
 
