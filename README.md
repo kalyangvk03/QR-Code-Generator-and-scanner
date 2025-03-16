@@ -3,7 +3,7 @@
 ## 📌 Introduction
 This project is a **QR Code Generator and Scanner** built using **OpenCV** and **OpenGL**. It allows users to generate QR codes from text and scan QR codes from images or real-time camera input.
 
-## 🛠 Technologies Used
+
 - **OpenCV** - For image processing and QR code detection
 - **OpenGL** - For rendering QR codes visually
 - **Python** - Main programming language
@@ -35,11 +35,12 @@ This project is a **QR Code Generator and Scanner** built using **OpenCV** and *
 - **Scan QR Code:** Use the webcam or upload an image containing a QR code to extract its data.
 
 ## 📌 Screenshots
-Generate QR Code
+## Generate QR Code
 ![Screenshot 2025-03-16 122737](https://github.com/user-attachments/assets/49f91359-857e-49ef-a306-1a9b55eb9521)
-![Screenshot 2025-03-16 122737](https://github.com/user-attachments/assets/513ebb2b-2b7c-4cda-8d5c-30dc95fcaad7)
+![Screenshot 2025-03-16 122843](https://github.com/user-attachments/assets/75d6b868-5e71-4acf-8047-63df7cebd5f7)
 
-Scan Generated Code in WebCam
+
+## Scan Generated Code in WebCam
 ![Screenshot 2025-03-16 123308](https://github.com/user-attachments/assets/b3481693-f33c-42a6-b4ea-d84bbce25381)
 
 
