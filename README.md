@@ -36,7 +36,7 @@ This project is a **QR Code Generator and Scanner** built using **OpenCV** and *
 
 ## 📌 Screenshots
 Generate QR Code
-![image](https://github.com/user-attachments/assets/bbc2cbfb-bd0a-4d64-a9ba-38ec6f7939c9)
+![Screenshot 2025-03-16 122737](https://github.com/user-attachments/assets/49f91359-857e-49ef-a306-1a9b55eb9521)
 ![Screenshot 2025-03-16 122737](https://github.com/user-attachments/assets/513ebb2b-2b7c-4cda-8d5c-30dc95fcaad7)
 
 Scan Generated Code in WebCam
